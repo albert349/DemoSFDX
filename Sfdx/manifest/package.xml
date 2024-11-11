@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>AccountController</members>
+		<members>AccountHandler</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Bike_Card</members>
+		<members>Bike_Selection</members>
+		<name>FlexiPage</name>
+	</types>
+	<types>
+		<members>Account-Household Layout</members>
+		<members>Account-Household Lightning Layout</members>
+		<name>Layout</name>
+	</types>
+	<version>60.0</version>
+</Package>
